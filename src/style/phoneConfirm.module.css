@@ -31,3 +31,10 @@
 .phoneConfirmContainer p span {
     font-weight: 500;
 }
+
+.arrowBackIosIcon {
+    color: black;
+    top: 10px;
+    left: 10px;
+}
+
