@@ -1,0 +1,6 @@
+.home_container {
+    padding: 3.5em 1em;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(238, 238, 238);
+}
